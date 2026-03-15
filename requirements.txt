@@ -1,0 +1,33 @@
+# Core
+requests>=2.31.0
+urllib3>=2.0.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# AI y Machine Learning
+langchain>=0.1.0
+openai>=1.0.0
+transformers>=4.35.0
+torch>=2.1.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Web y Networking
+aiohttp>=3.9.0
+selenium>=4.15.0
+colorama>=0.4.6
+prettytable>=3.9.0
+
+# GUI (para jSQL)
+tk>=0.1.0
+PyQt5>=5.15.0
+
+# Reportes
+jinja2>=3.1.0
+markdown>=3.5.0
+pdfkit>=1.0.0
+
+# Utilidades
+tqdm>=4.66.0
+termcolor>=2.3.0
+python-dateutil>=2.8.0
